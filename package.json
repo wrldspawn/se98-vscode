@@ -1,0 +1,40 @@
+{
+  "name": "se98-vscode",
+  "version": "1.0.0",
+  "displayName": "SE98",
+  "description": "Windows 98 icon theme for VSCode",
+  "publisher": "worldspawn",
+  "license": "GPL-2.0-only",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wrldspawn/se98-vscode.git"
+  },
+  "homepage": "https://github.com/wrldspawn/se98-vscode",
+  "engines": {
+    "vscode": "*"
+  },
+  "keywords": [
+    "windows",
+    "98",
+    "95",
+    "2000",
+    "vintage",
+    "classic",
+    "icons",
+    "icon-theme",
+    "customization"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "se98",
+        "label": "SE98",
+        "path": "./fileicons/se98.json"
+      }
+    ]
+  }
+}

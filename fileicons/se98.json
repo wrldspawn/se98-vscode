@@ -1,0 +1,250 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./images/folder.png"
+    },
+    "_folder_open": {
+      "iconPath": "./images/folder-open.png"
+    },
+    "_file": {
+      "iconPath": "./images/file.png"
+    },
+
+    "_bin": {
+      "iconPath": "./images/bin.png"
+    },
+    "_bin_gear": {
+      "iconPath": "./images/bin-gear.png"
+    },
+
+    "_image": {
+      "iconPath": "./images/image.png"
+    },
+    "_image_jpeg": {
+      "iconPath": "./images/image-jpeg.png"
+    },
+    "_image_png": {
+      "iconPath": "./images/image-png.png"
+    },
+    "_image_gif": {
+      "iconPath": "./images/image-gif.png"
+    },
+    "_image_tiff": {
+      "iconPath": "./images/image-tiff.png"
+    },
+    "_image_tga": {
+      "iconPath": "./images/image-tga.png"
+    },
+    "_image_webp": {
+      "iconPath": "./images/image-webp.png"
+    },
+    "_image_ico": {
+      "iconPath": "./images/image-ico.png"
+    },
+
+    "_file_gears": {
+      "iconPath": "./images/file-gears.png"
+    },
+    "_file_c": {
+      "iconPath": "./images/file-c.png"
+    },
+    "_file_cpp": {
+      "iconPath": "./images/file-cpp.png"
+    },
+    "_file_h": {
+      "iconPath": "./images/file-h.png"
+    },
+    "_file_hpp": {
+      "iconPath": "./images/file-hpp.png"
+    },
+    "_file_html": {
+      "iconPath": "./images/file-html.png"
+    },
+    "_file_xml": {
+      "iconPath": "./images/file-xml.png"
+    },
+    "_file_reg": {
+      "iconPath": "./images/file-reg.png"
+    },
+    "_file_font": {
+      "iconPath": "./images/file-font.png"
+    },
+    "_file_font_truetype": {
+      "iconPath": "./images/file-font-truetype.png"
+    },
+    "_file_font_opentype": {
+      "iconPath": "./images/file-font-opentype.png"
+    },
+
+    "_text": {
+      "iconPath": "./images/text.png"
+    },
+    "_text_csharp": {
+      "iconPath": "./images/text-csharp.png"
+    },
+    "_text_css": {
+      "iconPath": "./images/text-css.png"
+    },
+    "_text_gear": {
+      "iconPath": "./images/text-gear.png"
+    },
+    "_text_java": {
+      "iconPath": "./images/text-java.png"
+    },
+    "_text_markdown": {
+      "iconPath": "./images/text-markdown.png"
+    },
+    "_text_script_javascript": {
+      "iconPath": "./images/text-script-javascript.png"
+    },
+    "_text_license": {
+      "iconPath": "./images/text-license.png"
+    },
+
+    "_script_javascript": {
+      "iconPath": "./images/script-javascript.png"
+    },
+    "_script_typescript": {
+      "iconPath": "./images/script-typescript.png"
+    },
+    "_script_lua": {
+      "iconPath": "./images/script-lua.png"
+    },
+    "_script_python": {
+      "iconPath": "./images/script-python.png"
+    },
+    "_script_ruby": {
+      "iconPath": "./images/script-ruby.png"
+    },
+    "_script_awk": {
+      "iconPath": "./images/script-awk.png"
+    },
+    "_script_perl": {
+      "iconPath": "./images/script-perl.png"
+    },
+    "_script_php": {
+      "iconPath": "./images/script-php.png"
+    },
+    "_script_qml": {
+      "iconPath": "./images/script-qml.png"
+    },
+    "_script_tcl": {
+      "iconPath": "./images/script-tcl.png"
+    },
+    "_script_autohotkey": {
+      "iconPath": "./images/script-autohotkey.png"
+    },
+
+    "_folder_vs": {
+      "iconPath": "./images/folder-vs.png"
+    },
+    "_folder_open_vs": {
+      "iconPath": "./images/folder-open-vs.png"
+    }
+  },
+
+  "rootFolder": "_folder",
+  "rootFolderExpanded": "_folder_open",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "file": "_file",
+
+  "fileExtensions": {
+    "exe": "_bin",
+    "sh": "_bin_gear",
+    "ksh": "_bin_gear",
+    "zsh": "_bin_gear",
+    "bash": "_bin_gear",
+    "bat": "_bin_gear",
+    "ps1": "_bin_gear",
+
+    "jpg": "_image_jpeg",
+    "jpeg": "_image_jpeg",
+    "jpe": "_image_jpeg",
+    "jif": "_image_jpeg",
+    "jfif": "_image_jpeg",
+    "jfi": "_image_jpeg",
+    "jxl": "_image_jpeg",
+    "png": "_image_png",
+    "apng": "_image_png",
+    "gif": "_image_gif",
+    "tiff": "_image_tiff",
+    "tif": "_image_tiff",
+    "tga": "_image_tga",
+    "webp": "_image_webp",
+    "ico": "_image_ico",
+    "bmp": "_image",
+
+    "dll": "_file_gears",
+    "so": "_file_gears",
+    "c": "_file_c",
+    "cpp": "_file_cpp",
+    "h": "_file_h",
+    "hpp": "_file_hpp",
+    "html": "_file_html",
+    "htm": "_file_html",
+    "xhtml": "_file_html",
+    "xml": "_file_xml",
+    "xaml": "_file_xml",
+    "svg": "_file_xml",
+    "reg": "_file_reg",
+    "ttf": "_file_font_truetype",
+    "otf": "_file_font_opentype",
+    "woff": "_file_font",
+    "woff2": "_file_font",
+    "eot": "_file_font",
+
+    "txt": "_text",
+    "log": "_text",
+    "cs": "_text_csharp",
+    "css": "_text_css",
+    "scss": "_text_css",
+    "sass": "_text_css",
+    "styl": "_text_css",
+    "ini": "_text_gear",
+    "cfg": "_text_gear",
+    "toml": "_text_gear",
+    "yml": "_text_gear",
+    "yaml": "_text_gear",
+    "bashrc": "_text_gear",
+    "zshrc": "_text_gear",
+    "java": "_text_java",
+    "gradle": "_text_java",
+    "kt": "_text_java",
+    "kts": "_text_java",
+    "md": "_text_markdown",
+    "mdx": "_text_markdown",
+    "json": "_text_script_javascript",
+    "jsonc": "_text_script_javascript",
+    "json5": "_text_script_javascript",
+
+    "js": "_script_javascript",
+    "mjs": "_script_javascript",
+    "cjs": "_script_javascript",
+    "jsx": "_script_javascript",
+    "ts": "_script_typescript",
+    "tsx": "_script_typescript",
+    "lua": "_script_lua",
+    "py": "_script_python",
+    "rb": "_script_ruby",
+    "awk": "_script_awk",
+    "perl": "_script_perl",
+    "php": "_script_php",
+    "qml": "_script_qml",
+    "tcl": "_script_tcl",
+    "ahk": "_script_autohotkey"
+  },
+
+  "fileNames": {
+    "LICENSE": "_text_license"
+  },
+
+  "folderNames": {
+    ".vs": "_folder_vs",
+    ".vscode": "_folder_vs"
+  },
+  "folderNamesExpanded": {
+    ".vs": "_folder_open_vs",
+    ".vscode": "_folder_open_vs"
+  }
+}
