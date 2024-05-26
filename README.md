@@ -2,6 +2,8 @@
 
 SE98 (Windows 9x/2000) icons for Visual Studio Code.
 
+Available from [Open VSX](https://open-vsx.org/extension/worldspawn/se98-vscode) or [releases](https://github.com/wrldspawn/se98-vscode/releases/latest)
+
 ## To-do
 
 - Audio filetypes
